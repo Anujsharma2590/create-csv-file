@@ -7,6 +7,10 @@
 * csv-writer
 * axios
 
+<h3>API Endpoints </h3>
+The following API endpoints are available:
+
+POST /create-csv: Create a csv file with data.
 
 ## Installation
 
