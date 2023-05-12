@@ -18,3 +18,10 @@
 
    ```bash
    git clone https://github.com/Anujsharma2590/create-csv-file.git
+   
+   cd create-csv-file
+   npm install
+   
+   npm start
+   
+   Open a web browser and navigate to http://localhost:7000 to access the application.
