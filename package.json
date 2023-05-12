@@ -5,9 +5,18 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Anuj Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "csv-writer": "^1.6.0",
+    "express": "^4.18.2",
+    "luxon": "^3.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
