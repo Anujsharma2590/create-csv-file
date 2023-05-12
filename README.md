@@ -8,9 +8,9 @@
 * axios
 
 <h3>API Endpoints </h3>
-The following API endpoints are available:
+<h2>The following API endpoints are available:</h2>
 
-POST /create-csv: Create a csv file with data.
+* POST  /create-csv: Create a csv file with data.
 
 ## Installation
 
